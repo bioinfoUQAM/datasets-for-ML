@@ -19,8 +19,8 @@ You can install these libraries using pip.
 * cv2 (opencv) 4.0.1
 * pandas 1.0.4
 
-TO RUN
-
+## Running this Code
 Download all the files from the zip folder in this repository. Open a terminal and cd to the project folder (if you are using a python environment, make sure to activate it before). You can then open the jupyter notebook and run the cells during the tutorial. 
 
-The data from this example was retrieved from kaggle: https://www.kaggle.com/skeef79/plant-pathology-more-data-no-background
+## Contact
+For any questions or concerns regarding this tutorial, please contact amanda.boatswainj@gmail.com
