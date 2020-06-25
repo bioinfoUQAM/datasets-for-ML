@@ -11,7 +11,7 @@ To run this code, you need to have a version of python 3 up and running. This co
 * [python 3.8.3](https://www.python.org/downloads/release/python-383/)
 
 ### Other libraries 
-You can install these libraries using 'pip install'. 
+You can install these libraries using  `pip install`. 
 * matplotlib 3.2.1
 * imutils 0.5.3
 * scikit-learn 0.22.1
