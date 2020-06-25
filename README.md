@@ -1,5 +1,5 @@
 # Datasets for ML
-This repository contains code for an example Machine Learning (ML) project in plant health classification, more specifically, building and training a simple ML model to classify healthy and unhealthy apple plant leaves. You can use this project as an example to help you build your own ML model on a dataset of your choice. 
+This repository contains code for an example Machine Learning (ML) project in plant health classification, more specifically, building and training a simple ML model to classify healthy and unhealthy apple plant leaves. You can use this project as an example to help you build your own ML model on a dataset related to plant or animal health of your choice. 
 
 ## Input
 The data from this example was retrieved from kaggle: https://www.kaggle.com/skeef79/plant-pathology-more-data-no-background
