@@ -8,7 +8,7 @@ The data from this example was retrieved from kaggle: https://www.kaggle.com/ske
 To run this code, you need to have a version of python 3 up and running. This code was tested using python version 3.8.3. Python libraries including matplotlib, scikit-learn, imutils, numpy, cv2 and pandas must be installed in your python environment. 
 
 ### Python version
-* python 3.8.3: https://www.python.org/downloads/release/python-383/
+* [python 3.8.3](https://www.python.org/downloads/release/python-383/)
 
 ### Other libraries 
 You can install these libraries using pip. 
@@ -21,6 +21,10 @@ You can install these libraries using pip.
 
 ## Running this Code
 Download all the files from the zip folder in this repository. Open a terminal and cd to the project folder (if you are using a python environment, make sure to activate it before). You can then open the jupyter notebook and run the cells during the tutorial. 
+
+### Additionnal datasets
+You can use this code to create a ML classifier on other existing datasets. Some examples include: 
+
 
 ## Contact
 For any questions or concerns regarding this tutorial, please contact amanda.boatswainj@gmail.com
