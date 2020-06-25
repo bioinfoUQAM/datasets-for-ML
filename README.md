@@ -28,7 +28,7 @@ Download all the files from the zip folder in this repository. Open a terminal a
   
 ` ` `  python jupyter notebook  ` ` ` 
  
-Then navigate to the jupyter notebook _Plant_Pathology_ML_Tutorial.ipynb_ using the Notebook Dashboard and click on it to open. 
+Then navigate to the jupyter notebook Plant_Pathology_ML_Tutorial.ipynb_ using the Notebook Dashboard and click on it to open. 
 
 ## Additional Datasets
 You can use this code to create a ML classifier on other existing datasets. Some examples include: 
