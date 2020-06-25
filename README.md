@@ -25,7 +25,7 @@ Download all the files from the zip folder in this repository. Open a terminal a
 ### Additionnal datasets
 You can use this code to create a ML classifier on other existing datasets. Some examples include: 
 1. The Flowers-17 dataset, an open-source dataset containing 17 categories of flowers with 80 images for each class which you can find [here](http://www.robots.ox.ac.uk/~vgg/data/flowers/17/). 
-2. The [Plant Seedlings dataset] which contains images of seedlings from 12 different plant species. (https://www.kaggle.com/c/plant-seedlings-classification/data)
+2. The [Plant Seedlings dataset](https://www.kaggle.com/c/plant-seedlings-classification/data) which contains images of seedlings from 12 different plant species.
 
 
 ## Contact
