@@ -22,11 +22,11 @@ You can install these libraries using  `pip install`.
 ## Running this Code
 Download all the files from the zip folder in this repository. Open a terminal and cd to the project folder (if you are using a python environment, make sure to activate it before). You can then open the jupyter notebook and run the cells during the tutorial. 
  ` ` ` python 
- git clone https://github.com/bioinfoUQAM/datasets_for_ML/
- cd dataset_for_ML
- python jupyter notebook 
- ` ` ` 
- Then navigate to the jupyter notebook "               " using the Notebook Dashboard and click on it to open. 
+ git clone https://github.com/bioinfoUQAM/datasets_for_ML/   ` ` ` 
+  ` ` `  cd dataset_for_ML  ` ` ` 
+ ` ` `  python jupyter notebook  ` ` ` 
+ 
+Then navigate to the jupyter notebook "               " using the Notebook Dashboard and click on it to open. 
  
 You can use this code to create a ML classifier on other existing datasets. Some examples include: 
 1. The [Flowers-17 dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/17/). An open-source dataset containing 17 categories of flowers with 80 images for each class. 
